@@ -1,7 +1,7 @@
 /* .App {
   text-align: center;
 } */
-/* FONT IMPORTS */
+
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
 @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
 
@@ -23,7 +23,6 @@
   font-feature-settings: 'liga';
 }
 
-/* VARIABLES */
 :root {
   --main-color: #1a8fff;
   --text-color: #777;
@@ -33,7 +32,6 @@
   --neutral-color: #fff;
 }
 
-/* GENERAL */
 * {
   box-sizing: border-box;
 }
@@ -74,7 +72,6 @@ main {
   max-width: 50em;
 }
 
-/* GRID */
 .row {
   margin: 0;
   padding: 0;
@@ -109,7 +106,6 @@ main {
   text-align: right;
 }
 
-/* Calendar */
 .calendar {
   display: block;
   position: relative;
