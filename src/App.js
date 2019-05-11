@@ -10,9 +10,7 @@ class App extends React.Component {
         <header>
           <div id="logo">
             <span className="icon">date_range</span>
-            <span>
-              react<b>calendar</b>
-            </span>
+            <span>Infinite<b>Calendar</b></span>
           </div>          
         </header>
 
