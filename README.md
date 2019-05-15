@@ -2,6 +2,7 @@
 A calendar created using react, and adding date-fns (https://date-fns.org/) which provides a comprehensive, simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
 
 ## `Will need to add option for...`
+selecting day, adding comments/ notes
 select multiple dates, 
 show a date range, 
 option to add appointments
